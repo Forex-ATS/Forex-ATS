@@ -1,5 +1,5 @@
 
-# Price Action Breakout Trading System (MT5)
+# Forex ATS Trading System (MT5)
 
 This repository contains an open‑source Expert Advisor (EA) for MetaTrader 5 implementing a simple yet robust price‑action breakout strategy. The system looks for the close of the last completed **H1** candle to break above (or below) the highs (or lows) of the two preceding candles and aligns trades with the dominant **Daily (D1)** and **4‑hour (H4)** trends.  
 
